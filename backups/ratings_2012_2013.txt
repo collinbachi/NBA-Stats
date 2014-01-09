@@ -1,0 +1,30 @@
+Miami Heat: 1672.1905368
+San Antonio Spurs: 1619.85883251
+Denver Nuggets: 1563.56796876
+Memphis Grizzlies: 1558.87800527
+Indiana Pacers: 1532.30272508
+Oklahoma City Thunder: 1521.0569367
+Los Angeles Clippers: 1500.64150182
+Golden State Warriors: 1494.54069341
+New York Knicks: 1485.92550257
+Dallas Mavericks: 1467.1505887
+Los Angeles Lakers: 1454.55148502
+Brooklyn Nets: 1445.73657388
+Houston Rockets: 1440.648192
+Chicago Bulls: 1437.4109189
+Utah Jazz: 1436.5941065
+Toronto Raptors: 1394.82297295
+Boston Celtics: 1375.63424242
+Atlanta Hawks: 1367.85374993
+Philadelphia 76ers: 1341.67323225
+Minnesota Timberwolves: 1322.15459345
+Washington Wizards: 1319.56895103
+Milwaukee Bucks: 1297.63558636
+Sacramento Kings: 1287.90508735
+Detroit Pistons: 1283.89516484
+New Orleans Pelicans: 1274.92361345
+Portland Trail Blazers: 1256.57772263
+Phoenix Suns: 1242.56541776
+Charlotte Bobcats: 1238.23268289
+Cleveland Cavaliers: 1217.50558141
+Orlando Magic: 1147.99683336

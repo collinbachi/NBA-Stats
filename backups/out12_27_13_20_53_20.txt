@@ -1,0 +1,43 @@
+San Antonio SpurToronto Raptors > Brooklyn Nets 98 67
+Washington Wizards > Miami Heat 104 70
+Utah Jazz > Portland Trail Blazers 96 94
+Denver Nuggets > Minnesota Timberwolves  131 102
+Memphis Grizzlies > Orlando Magic 88 76
+Houston Rockets > New Orleans Pelicans 84 77
+Detroit Pistons > Philadelphia 76ers 108 86
+Chicago Bulls > Cleveland Cavaliers 107 75
+New York Knicks > Charlotte Bobcats  104 84
+Boston Celtics > Milwaukee Bucks 87 74
+Atlanta Hawks > Dallas Mavericks 106 89
+Sacramento Kings > Los Angeles Lakers 113 96
+San Antonio Spurs > Golden State Warriors  107 101
+Chicago Bulls > Philadelphia 76ers 103 91
+Miami Heat > New York Knicks 100 67
+Orlando Magic > Indiana Pacers  81 77
+Oklahoma City Thunder > Dallas Mavericks 99 98
+San Antonio Spurs > Utah Jazz 106 91
+Los Angeles Lakers > Denver Nuggets 103 88
+Atlanta Hawks > Boston Celtics 83 74
+Los Angeles Clippers > Memphis Grizzlies  99 98
+Miami Heat > New York Knicks 104 94
+Indiana Pacers > Orlando Magic 93 78
+Oklahoma City Thunder > Dallas Mavericks 102 99
+Boston Celtics > Atlanta Hawks  87 80
+Philadelphia 76ers > Chicago Bulls  109 92
+Los Angeles Lakers > Denver Nuggets 104 100
+San Antonio Spurs > Utah Jazz 114 83
+Indiana Pacers > Orlando Magic  97 74
+Memphis Grizzlies > Los Angeles Clippers 105 98
+Miami Heat > New York Knicks  87 70
+Oklahoma City Thunder > Dallas Mavericks  95 79
+Boston Celtics > Atlanta Hawks 90 84
+Philadelphia 76ers > Chicago Bulls 79 74
+Denver Nuggets > Los Angeles Lakers 99 84
+Indiana Pacers > Orlando Magic  101 99
+Los Angeles Clippers > Memphis Grizzlies 87 86
+Oklahoma City Thunder > Dallas Mavericks  103 97
+San Antonio Spurs > Utah Jazz  102 90
+Philadelphia 76ers > Chicago Bulls 89 82
+New York Knicks > Miami Heat 89 87
+Boston Celtics > Atlanta Hawks 101 79
+s Lakers > Denver Nuggets  92 88

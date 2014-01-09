@@ -1,0 +1,150 @@
+Chicago Bulls > Philadelphia 76ers |A & 77 69
+Denver Nuggets > Los Angeles Lakers  |H & 102 99
+Miami Heat > New York Knicks |A & 106 94
+Memphis Grizzlies > Los Angeles Clippers |A & 92 80
+Philadelphia 76ers > Chicago Bulls |A & 79 78
+Boston Celtics > Atlanta Hawks |A & 83 80
+Denver Nuggets > Los Angeles Lakers |A & 113 96
+Memphis Grizzlies > Los Angeles Clippers  |H & 90 88
+Boston Celtics > Philadelphia 76ers |A & 92 91
+Los Angeles Lakers > Denver Nuggets |A & 96 87
+Los Angeles Clippers > Memphis Grizzlies  |H & 82 72
+Miami Heat > Indiana Pacers |A & 95 86
+Philadelphia 76ers > Boston Celtics  |H & 82 81
+Oklahoma City Thunder > Los Angeles Lakers |A & 119 90
+Indiana Pacers > Miami Heat  |H & 78 75
+San Antonio Spurs > Los Angeles Clippers |A & 108 92
+Boston Celtics > Philadelphia 76ers  |H & 107 91
+Oklahoma City Thunder > Los Angeles Lakers |A & 77 75
+Indiana Pacers > Miami Heat |A & 94 75
+San Antonio Spurs > Los Angeles Clippers |A & 105 88
+Philadelphia 76ers > Boston Celtics |A & 92 83
+Los Angeles Lakers > Oklahoma City Thunder |A & 99 96
+San Antonio Spurs > Los Angeles Clippers  |H & 96 86
+Oklahoma City Thunder > Los Angeles Lakers  |H & 103 100
+Miami Heat > Indiana Pacers  |H & 101 93
+San Antonio Spurs > Los Angeles Clippers  |H & 102 99
+Boston Celtics > Philadelphia 76ers |A & 101 85
+Oklahoma City Thunder > Los Angeles Lakers |A & 106 90
+Miami Heat > Indiana Pacers |A & 115 83
+Philadelphia 76ers > Boston Celtics |A & 82 75
+Miami Heat > Indiana Pacers  |H & 105 93
+Boston Celtics > Philadelphia 76ers |A & 85 75
+San Antonio Spurs > Oklahoma City Thunder |A & 101 98
+Miami Heat > Boston Celtics |A & 93 79
+San Antonio Spurs > Oklahoma City Thunder |A & 120 111
+Miami Heat > Boston Celtics |A & 115 111
+Oklahoma City Thunder > San Antonio Spurs |A & 102 82
+Boston Celtics > Miami Heat |A & 101 91
+Oklahoma City Thunder > San Antonio Spurs |A & 109 103
+Boston Celtics > Miami Heat |A & 93 91
+Oklahoma City Thunder > San Antonio Spurs  |H & 108 103
+Boston Celtics > Miami Heat  |H & 94 90
+Oklahoma City Thunder > San Antonio Spurs |A & 107 99
+Miami Heat > Boston Celtics  |H & 98 79
+Miami Heat > Boston Celtics |A & 101 88
+Oklahoma City Thunder > Miami Heat |A & 105 94
+Miami Heat > Oklahoma City Thunder  |H & 100 96
+Miami Heat > Oklahoma City Thunder |A & 91 85
+Miami Heat > Oklahoma City Thunder |A & 104 98
+Miami Heat > Oklahoma City Thunder |A & 121 106
+Boston Celtics > New York Knicks  |H & 92 86
+Indiana Pacers > Atlanta Hawks |A & 106 83
+Houston Rockets > Oklahoma City Thunder  |H & 107 100
+Brooklyn Nets > Chicago Bulls  |H & 95 92
+Golden State Warriors > Denver Nuggets |A & 92 88
+New York Knicks > Boston Celtics  |H & 88 80
+Indiana Pacers > Atlanta Hawks  |H & 81 73
+Memphis Grizzlies > Los Angeles Clippers |A & 118 105
+Oklahoma City Thunder > Houston Rockets  |H & 103 94
+Chicago Bulls > Brooklyn Nets  |H & 99 93
+Oklahoma City Thunder > Memphis Grizzlies |A & 93 91
+Indiana Pacers > New York Knicks  |H & 102 95
+Chicago Bulls > Miami Heat  |H & 93 86
+San Antonio Spurs > Golden State Warriors |A & 129 127
+New York Knicks > Indiana Pacers |A & 105 79
+Memphis Grizzlies > Oklahoma City Thunder  |H & 99 93
+Miami Heat > Chicago Bulls |A & 115 78
+Golden State Warriors > San Antonio Spurs  |H & 100 91
+Miami Heat > Chicago Bulls  |H & 104 94
+San Antonio Spurs > Golden State Warriors  |H & 102 92
+Memphis Grizzlies > Oklahoma City Thunder |A & 87 81
+Indiana Pacers > New York Knicks |A & 82 71
+Golden State Warriors > San Antonio Spurs |A & 97 87
+Miami Heat > Chicago Bulls  |H & 88 65
+Memphis Grizzlies > Oklahoma City Thunder |A & 103 97
+Indiana Pacers > New York Knicks |A & 93 82
+San Antonio Spurs > Golden State Warriors |A & 109 91
+Miami Heat > Chicago Bulls |A & 94 91
+Memphis Grizzlies > Oklahoma City Thunder  |H & 88 84
+New York Knicks > Indiana Pacers |A & 85 75
+San Antonio Spurs > Golden State Warriors  |H & 94 82
+Indiana Pacers > New York Knicks |A & 106 99
+San Antonio Spurs > Memphis Grizzlies |A & 105 83
+San Antonio Spurs > Memphis Grizzlies |A & 93 89
+Miami Heat > Indiana Pacers |A & 103 102
+Indiana Pacers > Miami Heat  |H & 97 93
+San Antonio Spurs > Memphis Grizzlies  |H & 104 93
+Miami Heat > Indiana Pacers  |H & 114 96
+San Antonio Spurs > Memphis Grizzlies  |H & 93 86
+Indiana Pacers > Miami Heat |A & 99 92
+Miami Heat > Indiana Pacers |A & 90 79
+Indiana Pacers > Miami Heat |A & 91 77
+Miami Heat > Indiana Pacers |A & 99 76
+San Antonio Spurs > Miami Heat  |H & 92 88
+Miami Heat > San Antonio Spurs |A & 103 84
+San Antonio Spurs > Miami Heat |A & 113 77
+Miami Heat > San Antonio Spurs  |H & 109 93
+San Antonio Spurs > Miami Heat |A & 114 104
+Miami Heat > San Antonio Spurs |A & 103 100
+Miami Heat > San Antonio Spurs |A & 95 88
+Oklahoma City Thunder > San Antonio Spurs  |H & 113 100
+Milwaukee Bucks > Philadelphia 76ers |A & 116 106
+Phoenix Suns > Dallas Mavericks |A & 123 108
+Portland Trail Blazers > New Orleans Pelicans |A & 110 107
+Los Angeles Clippers > Denver Nuggets |A & 112 91
+Golden State Warriors > Los Angeles Lakers |A & 102 83
+Indiana Pacers > Boston Celtics |A & 106 79
+Toronto Raptors > Oklahoma City Thunder  |H & 104 98
+Los Angeles Clippers > Minnesota Timberwolves |A & 120 116
+New York Knicks > Orlando Magic  |H & 103 98
+Detroit Pistons > Cleveland Cavaliers  |H & 115 92
+Charlotte Bobcats > Milwaukee Bucks |A & 111 110
+Miami Heat > Atlanta Hawks |A & 121 119
+Indiana Pacers > Brooklyn Nets  |H & 103 86
+Memphis Grizzlies > Utah Jazz |A & 104 94
+Dallas Mavericks > Houston Rockets  |H & 111 104
+San Antonio Spurs > Toronto Raptors |A & 112 99
+Phoenix Suns > Los Angeles Lakers |A & 117 90
+Golden State Warriors > Denver Nuggets  |H & 89 81
+New Orleans Pelicans > Sacramento Kings  |H & 113 100
+Chicago Bulls > Brooklyn Nets  |H & 95 78
+Oklahoma City Thunder > New York Knicks  |H & 123 94
+Miami Heat > Los Angeles Lakers  |H & 101 95
+Houston Rockets > San Antonio Spurs  |H & 111 98
+Golden State Warriors > Los Angeles Clippers |A & 105 103
+Atlanta Hawks > Cleveland Cavaliers  |H & 127 125
+Houston Rockets > Memphis Grizzlies |A & 100 92
+San Antonio Spurs > Dallas Mavericks  |H & 116 107
+Portland Trail Blazers > Los Angeles Clippers |A & 116 112
+Orlando Magic > Detroit Pistons |A & 109 92
+Oklahoma City Thunder > Charlotte Bobcats  |H & 89 85
+Toronto Raptors > New York Knicks  |H & 95 83
+Brooklyn Nets > Milwaukee Bucks |A & 104 93
+New Orleans Pelicans > Denver Nuggets |A & 105 89
+Minnesota Timberwolves > Washington Wizards |A & 120 98
+Utah Jazz > Los Angeles Lakers |A & 105 103
+Sacramento Kings > Miami Heat |A & 108 103
+Golden State Warriors > Phoenix Suns |A & 115 86
+Boston Celtics > Cleveland Cavaliers |A & 103 100
+Washington Wizards > Detroit Pistons |A & 106 82
+Toronto Raptors > New York Knicks |A & 115 100
+Indiana Pacers > Brooklyn Nets |A & 105 91
+Atlanta Hawks > Charlotte Bobcats |A & 118 116
+Memphis Grizzlies > Denver Nuggets |A & 120 99
+Houston Rockets > New Orleans Pelicans |A & 107 98
+Dallas Mavericks > Chicago Bulls  |H & 105 83
+Minnesota Timberwolves > Milwaukee Bucks  |H & 117 95
+Phoenix Suns > Philadelphia 76ers |A & 115 101
+Miami Heat > Portland Trail Blazers  |H & 108 107
+Los Angeles Clippers > Utah Jazz |A & 98 90

@@ -1,0 +1,1103 @@
+Philadelphia 76ers > Washington Wizards 
+Chicago Bulls > Indiana Pacers 
+Cleveland Cavaliers > Detroit Pistons 
+New Orleans Pelicans > Memphis Grizzlies 
+New York Knicks > Brooklyn Nets 
+Minnesota Timberwolves > Milwaukee Bucks
+Houston Rockets > San Antonio Spurs
+Golden State Warriors > Sacramento Kings
+Boston Celtics > Toronto Raptors 
+Miami Heat > Orlando Magic
+Oklahoma City Thunder > Dallas Mavericks 
+Charlotte Bobcats > Atlanta Hawks
+Portland Trail Blazers > Utah Jazz
+Los Angeles Clippers > Los Angeles Lakers 
+Philadelphia 76ers > Washington Wizards
+Detroit Pistons > Cleveland Cavaliers 
+Oklahoma City Thunder > Dallas Mavericks
+Chicago Bulls > Indiana Pacers
+Denver Nuggets > Phoenix Suns
+Sacramento Kings > Golden State Warriors
+Orlando Magic > Miami Heat
+New York Knicks > Brooklyn Nets
+Boston Celtics > Toronto Raptors
+New Orleans Pelicans > Memphis Grizzlies
+Minnesota Timberwolves > Milwaukee Bucks 
+San Antonio Spurs > Houston Rockets
+Utah Jazz > Portland Trail Blazers
+Los Angeles Clippers > Los Angeles Lakers
+Atlanta Hawks > Charlotte Bobcats
+Denver Nuggets > Phoenix Suns 
+New York Knicks > Boston Celtics
+Miami Heat > Dallas Mavericks 
+Chicago Bulls > Los Angeles Lakers 
+Oklahoma City Thunder > Orlando Magic
+Los Angeles Clippers > Golden State Warriors 
+Brooklyn Nets > Washington Wizards 
+Orlando Magic > Houston Rockets
+Indiana Pacers > Detroit Pistons
+Toronto Raptors > Cleveland Cavaliers 
+Charlotte Bobcats > Milwaukee Bucks
+Oklahoma City Thunder > Minnesota Timberwolves 
+San Antonio Spurs > Memphis Grizzlies
+Denver Nuggets > Dallas Mavericks 
+New Orleans Pelicans > Phoenix Suns 
+Sacramento Kings > Los Angeles Lakers
+Portland Trail Blazers > Philadelphia 76ers
+Golden State Warriors > Chicago Bulls
+Atlanta Hawks > Brooklyn Nets 
+Miami Heat > Boston Celtics
+Milwaukee Bucks > Minnesota Timberwolves
+Portland Trail Blazers > Sacramento Kings
+Los Angeles Lakers > Utah Jazz
+Indiana Pacers > Toronto Raptors 
+Miami Heat > Charlotte Bobcats 
+Atlanta Hawks > Washington Wizards
+Cleveland Cavaliers > Detroit Pistons 
+New Orleans Pelicans > Boston Celtics
+Oklahoma City Thunder > Memphis Grizzlies 
+San Antonio Spurs > Los Angeles Clippers
+Philadelphia 76ers > Phoenix Suns 
+Denver Nuggets > Utah Jazz
+Golden State Warriors > New York Knicks
+Orlando Magic > Brooklyn Nets
+Oklahoma City Thunder > Dallas Mavericks
+Houston Rockets > San Antonio Spurs
+Chicago Bulls > Sacramento Kings 
+Portland Trail Blazers > Denver Nuggets
+Los Angeles Lakers > New York Knicks
+Indiana Pacers > Cleveland Cavaliers
+Orlando Magic > Charlotte Bobcats 
+Boston Celtics > Detroit Pistons
+Atlanta Hawks > Brooklyn Nets
+Phoenix Suns > New Orleans Pelicans 
+Miami Heat > Minnesota Timberwolves 
+Memphis Grizzlies > Houston Rockets
+Milwaukee Bucks > Washington Wizards
+Dallas Mavericks > Toronto Raptors
+Utah Jazz > Philadelphia 76ers
+Chicago Bulls > Los Angeles Clippers 
+Los Angeles Lakers > Denver Nuggets
+Detroit Pistons > Indiana Pacers
+Houston Rockets > Atlanta Hawks
+New York Knicks > Sacramento Kings 
+Oklahoma City Thunder > Phoenix Suns
+San Antonio Spurs > Utah Jazz
+Philadelphia 76ers > Golden State Warriors 
+Boston Celtics > Washington Wizards 
+Orlando Magic > Toronto Raptors
+Miami Heat > Charlotte Bobcats
+Cleveland Cavaliers > Brooklyn Nets
+Minnesota Timberwolves > Dallas Mavericks
+Denver Nuggets > Los Angeles Lakers
+Chicago Bulls > Memphis Grizzlies
+Sacramento Kings > New Orleans Pelicans
+Los Angeles Clippers > Portland Trail Blazers
+Phoenix Suns > Golden State Warriors
+Toronto Raptors > New York Knicks 
+Atlanta Hawks > Miami Heat 
+Detroit Pistons > Orlando Magic
+Indiana Pacers > Brooklyn Nets 
+Boston Celtics > Washington Wizards
+Minnesota Timberwolves > San Antonio Spurs
+Dallas Mavericks > Oklahoma City Thunder
+Utah Jazz > New Orleans Pelicans
+Denver Nuggets > Milwaukee Bucks
+Cleveland Cavaliers > Charlotte Bobcats
+Portland Trail Blazers > Oklahoma City Thunder 
+Memphis Grizzlies > Sacramento Kings
+Chicago Bulls > Atlanta Hawks
+Utah Jazz > Milwaukee Bucks
+Los Angeles Lakers > Houston Rockets
+Toronto Raptors > Cleveland Cavaliers
+Orlando Magic > Washington Wizards
+Charlotte Bobcats > New York Knicks 
+Miami Heat > Indiana Pacers
+Chicago Bulls > Detroit Pistons 
+Boston Celtics > Brooklyn Nets
+Philadelphia 76ers > New Orleans Pelicans 
+Memphis Grizzlies > Minnesota Timberwolves 
+San Antonio Spurs > Golden State Warriors
+Dallas Mavericks > Phoenix Suns
+Denver Nuggets > Sacramento Kings
+Los Angeles Clippers > Houston Rockets
+Miami Heat > Atlanta Hawks 
+San Antonio Spurs > Dallas Mavericks
+Sacramento Kings > Milwaukee Bucks
+Portland Trail Blazers > Los Angeles Lakers
+New York Knicks > Washington Wizards 
+Brooklyn Nets > Toronto Raptors 
+Philadelphia 76ers > Detroit Pistons
+Atlanta Hawks > Charlotte Bobcats 
+Indiana Pacers > Boston Celtics 
+Chicago Bulls > Orlando Magic 
+Oklahoma City Thunder > Houston Rockets
+Denver Nuggets > New Orleans Pelicans 
+Cleveland Cavaliers > Minnesota Timberwolves 
+Utah Jazz > Memphis Grizzlies
+Phoenix Suns > Portland Trail Blazers
+Los Angeles Lakers > Golden State Warriors
+Indiana Pacers > Charlotte Bobcats
+Atlanta Hawks > Chicago Bulls
+New York Knicks > Detroit Pistons 
+Miami Heat > Brooklyn Nets 
+Philadelphia 76ers > Toronto Raptors
+Oklahoma City Thunder > Houston Rockets 
+San Antonio Spurs > Denver Nuggets
+Dallas Mavericks > New Orleans Pelicans
+Los Angeles Clippers > Milwaukee Bucks
+Utah Jazz > Golden State Warriors 
+Minnesota Timberwolves > Washington Wizards 
+Orlando Magic > Sacramento Kings 
+Oklahoma City Thunder > San Antonio Spurs
+Phoenix Suns > Milwaukee Bucks
+Portland Trail Blazers > Cleveland Cavaliers
+Los Angeles Lakers > Memphis Grizzlies
+Toronto Raptors > Minnesota Timberwolves
+Philadelphia 76ers > Indiana Pacers
+New York Knicks > Charlotte Bobcats
+Atlanta Hawks > Brooklyn Nets 
+Chicago Bulls > Detroit Pistons
+New Orleans Pelicans > Denver Nuggets 
+Washington Wizards > Toronto Raptors
+Philadelphia 76ers > Sacramento Kings
+Houston Rockets > Charlotte Bobcats 
+Dallas Mavericks > Detroit Pistons 
+Chicago Bulls > Minnesota Timberwolves 
+Milwaukee Bucks > San Antonio Spurs
+Oklahoma City Thunder > Memphis Grizzlies 
+Utah Jazz > Cleveland Cavaliers
+Portland Trail Blazers > Los Angeles Clippers
+Los Angeles Lakers > Phoenix Suns
+Golden State Warriors > Miami Heat
+Sacramento Kings > Toronto Raptors 
+Indiana Pacers > Atlanta Hawks
+New York Knicks > Philadelphia 76ers
+Oklahoma City Thunder > New Orleans Pelicans 
+Chicago Bulls > Washington Wizards
+Dallas Mavericks > Boston Celtics 
+San Antonio Spurs > Houston Rockets
+Los Angeles Lakers > Utah Jazz 
+Denver Nuggets > Brooklyn Nets
+Orlando Magic > Portland Trail Blazers 
+Los Angeles Clippers > Miami Heat
+Atlanta Hawks > Charlotte Bobcats
+Milwaukee Bucks > Detroit Pistons
+Memphis Grizzlies > New York Knicks
+Cleveland Cavaliers > Phoenix Suns 
+Orlando Magic > Golden State Warriors 
+Indiana Pacers > Toronto Raptors 
+Philadelphia 76ers > Washington Wizards
+Detroit Pistons > Charlotte Bobcats 
+Minnesota Timberwolves > New Orleans Pelicans 
+Houston Rockets > Sacramento Kings
+Chicago Bulls > Boston Celtics 
+San Antonio Spurs > Portland Trail Blazers
+Dallas Mavericks > Milwaukee Bucks
+Brooklyn Nets > Phoenix Suns 
+Los Angeles Lakers > Cleveland Cavaliers
+Denver Nuggets > Miami Heat
+Philadelphia 76ers > Washington Wizards 
+Indiana Pacers > Boston Celtics
+Charlotte Bobcats > Golden State Warriors
+Atlanta Hawks > Minnesota Timberwolves
+Oklahoma City Thunder > New York Knicks
+Houston Rockets > Portland Trail Blazers
+Memphis Grizzlies > New Orleans Pelicans
+Chicago Bulls > Toronto Raptors
+Utah Jazz > Brooklyn Nets
+Dallas Mavericks > Sacramento Kings
+Los Angeles Clippers > Los Angeles Lakers
+Golden State Warriors > Detroit Pistons 
+Utah Jazz > Denver Nuggets 
+San Antonio Spurs > Phoenix Suns
+Orlando Magic > New York Knicks 
+Memphis Grizzlies > Chicago Bulls
+Houston Rockets > Washington Wizards 
+Philadelphia 76ers > Milwaukee Bucks
+Cleveland Cavaliers > Charlotte Bobcats 
+Portland Trail Blazers > New Orleans Pelicans 
+Los Angeles Clippers > Brooklyn Nets
+Atlanta Hawks > Toronto Raptors
+Minnesota Timberwolves > Sacramento Kings
+Oklahoma City Thunder > Boston Celtics 
+Los Angeles Lakers > Dallas Mavericks
+Orlando Magic > Charlotte Bobcats
+Golden State Warriors > Cleveland Cavaliers 
+Miami Heat > San Antonio Spurs
+Denver Nuggets > Milwaukee Bucks 
+Houston Rockets > Detroit Pistons
+Chicago Bulls > Phoenix Suns
+Utah Jazz > Los Angeles Clippers
+Washington Wizards > Oklahoma City Thunder
+Denver Nuggets > Philadelphia 76ers 
+San Antonio Spurs > Orlando Magic 
+Phoenix Suns > New York Knicks 
+Brooklyn Nets > Golden State Warriors
+Boston Celtics > Toronto Raptors
+Memphis Grizzlies > New Orleans Pelicans 
+Minnesota Timberwolves > Detroit Pistons
+Atlanta Hawks > Portland Trail Blazers
+Sacramento Kings > Indiana Pacers
+Los Angeles Clippers > Dallas Mavericks
+Miami Heat > Los Angeles Lakers
+Houston Rockets > New Orleans Pelicans
+Dallas Mavericks > Utah Jazz 
+Denver Nuggets > Washington Wizards 
+Portland Trail Blazers > Toronto Raptors 
+Philadelphia 76ers > Atlanta Hawks
+Milwaukee Bucks > New York Knicks 
+Memphis Grizzlies > Detroit Pistons 
+Chicago Bulls > Cleveland Cavaliers 
+Phoenix Suns > Boston Celtics 
+Orlando Magic > Los Angeles Lakers
+Sacramento Kings > San Antonio Spurs 
+Minnesota Timberwolves > Los Angeles Clippers 
+Indiana Pacers > Golden State Warriors 
+Atlanta Hawks > Cleveland Cavaliers
+Denver Nuggets > New York Knicks 
+Miami Heat > Philadelphia 76ers
+Detroit Pistons > Portland Trail Blazers
+Dallas Mavericks > New Orleans Pelicans 
+Memphis Grizzlies > Sacramento Kings
+Houston Rockets > San Antonio Spurs
+Chicago Bulls > Charlotte Bobcats
+Oklahoma City Thunder > Brooklyn Nets 
+Utah Jazz > Minnesota Timberwolves
+Boston Celtics > Washington Wizards 
+Los Angeles Clippers > Toronto Raptors
+Milwaukee Bucks > Miami Heat 
+Brooklyn Nets > Charlotte Bobcats
+Indiana Pacers > Los Angeles Lakers 
+Philadelphia 76ers > Washington Wizards
+Boston Celtics > Orlando Magic
+Oklahoma City Thunder > Detroit Pistons
+San Antonio Spurs > New Orleans Pelicans 
+Houston Rockets > Minnesota Timberwolves 
+Atlanta Hawks > Milwaukee Bucks 
+Chicago Bulls > Brooklyn Nets
+Dallas Mavericks > Phoenix Suns
+Portland Trail Blazers > Sacramento Kings
+Memphis Grizzlies > Golden State Warriors 
+Orlando Magic > Indiana Pacers 
+New York Knicks > Charlotte Bobcats 
+Miami Heat > Cleveland Cavaliers
+Toronto Raptors > Phoenix Suns 
+Portland Trail Blazers > Memphis Grizzlies
+Washington Wizards > Charlotte Bobcats
+Brooklyn Nets > Philadelphia 76ers 
+Cleveland Cavaliers > New York Knicks
+Miami Heat > Detroit Pistons 
+Oklahoma City Thunder > New Orleans Pelicans
+Milwaukee Bucks > Houston Rockets 
+Indiana Pacers > Chicago Bulls 
+San Antonio Spurs > Atlanta Hawks
+Minnesota Timberwolves > Dallas Mavericks 
+Toronto Raptors > Utah Jazz 
+Denver Nuggets > Sacramento Kings 
+Los Angeles Lakers > Los Angeles Clippers
+Golden State Warriors > Portland Trail Blazers
+Boston Celtics > Orlando Magic 
+Los Angeles Clippers > Memphis Grizzlies
+Philadelphia 76ers > Charlotte Bobcats
+Atlanta Hawks > Detroit Pistons 
+Brooklyn Nets > Cleveland Cavaliers 
+Boston Celtics > Indiana Pacers
+New Orleans Pelicans > Orlando Magic
+Minnesota Timberwolves > San Antonio Spurs
+Miami Heat > New York Knicks
+Houston Rockets > Washington Wizards
+Chicago Bulls > Milwaukee Bucks
+Dallas Mavericks > Utah Jazz
+Denver Nuggets > Toronto Raptors
+Portland Trail Blazers > Phoenix Suns
+Oklahoma City Thunder > Golden State Warriors 
+Philadelphia 76ers > Detroit Pistons
+Washington Wizards > Charlotte Bobcats 
+Houston Rockets > New York Knicks
+Milwaukee Bucks > Los Angeles Lakers
+Utah Jazz > Sacramento Kings
+Phoenix Suns > Memphis Grizzlies
+Miami Heat > Chicago Bulls
+Indiana Pacers > Orlando Magic 
+Toronto Raptors > Brooklyn Nets 
+Cleveland Cavaliers > Boston Celtics 
+Dallas Mavericks > San Antonio Spurs
+Atlanta Hawks > New Orleans Pelicans 
+Los Angeles Lakers > Minnesota Timberwolves 
+Los Angeles Clippers > Denver Nuggets 
+Chicago Bulls > Washington Wizards 
+Philadelphia 76ers > Orlando Magic
+Miami Heat > New Orleans Pelicans
+Milwaukee Bucks > Detroit Pistons
+San Antonio Spurs > Memphis Grizzlies 
+Minnesota Timberwolves > Houston Rockets 
+Utah Jazz > Portland Trail Blazers
+Dallas Mavericks > Phoenix Suns 
+Los Angeles Clippers > Oklahoma City Thunder
+Atlanta Hawks > Toronto Raptors 
+Indiana Pacers > Brooklyn Nets
+Boston Celtics > Cleveland Cavaliers 
+New York Knicks > Detroit Pistons
+Memphis Grizzlies > Denver Nuggets
+Los Angeles Lakers > Charlotte Bobcats
+Golden State Warriors > Sacramento Kings
+Philadelphia 76ers > Chicago Bulls
+Orlando Magic > Washington Wizards
+Brooklyn Nets > Detroit Pistons
+Boston Celtics > Toronto Raptors
+Phoenix Suns > New Orleans Pelicans 
+Indiana Pacers > Minnesota Timberwolves 
+Milwaukee Bucks > Miami Heat
+Oklahoma City Thunder > Dallas Mavericks 
+San Antonio Spurs > Houston Rockets
+Portland Trail Blazers > Charlotte Bobcats
+Los Angeles Clippers > Utah Jazz 
+Memphis Grizzlies > Atlanta Hawks 
+Chicago Bulls > New York Knicks 
+San Antonio Spurs > New Orleans Pelicans
+Sacramento Kings > Portland Trail Blazers
+Denver Nuggets > Los Angeles Clippers 
+Golden State Warriors > Utah Jazz
+Toronto Raptors > Washington Wizards
+Miami Heat > Philadelphia 76ers 
+Orlando Magic > Cleveland Cavaliers
+Detroit Pistons > Milwaukee Bucks
+Minnesota Timberwolves > Brooklyn Nets 
+Oklahoma City Thunder > Memphis Grizzlies
+Houston Rockets > Phoenix Suns
+Boston Celtics > New York Knicks
+Indiana Pacers > Dallas Mavericks 
+Los Angeles Lakers > Denver Nuggets 
+Los Angeles Clippers > Washington Wizards 
+Orlando Magic > Indiana Pacers 
+Philadelphia 76ers > Atlanta Hawks 
+New York Knicks > Brooklyn Nets
+Detroit Pistons > New Orleans Pelicans
+Cleveland Cavaliers > Dallas Mavericks
+Minnesota Timberwolves > Houston Rockets
+San Antonio Spurs > Oklahoma City Thunder
+Chicago Bulls > Milwaukee Bucks 
+Utah Jazz > Los Angeles Lakers
+Phoenix Suns > Charlotte Bobcats
+Sacramento Kings > Golden State Warriors
+Portland Trail Blazers > Denver Nuggets
+Boston Celtics > Memphis Grizzlies
+Miami Heat > Toronto Raptors
+Washington Wizards > Toronto Raptors
+Philadelphia 76ers > Los Angeles Lakers
+Los Angeles Clippers > Orlando Magic 
+New York Knicks > Utah Jazz
+Chicago Bulls > Brooklyn Nets 
+Phoenix Suns > Atlanta Hawks 
+Sacramento Kings > New Orleans Pelicans 
+San Antonio Spurs > Memphis Grizzlies 
+Houston Rockets > Denver Nuggets 
+Oklahoma City Thunder > Portland Trail Blazers 
+Indiana Pacers > Utah Jazz
+Miami Heat > Cleveland Cavaliers
+Boston Celtics > Charlotte Bobcats
+Minnesota Timberwolves > Sacramento Kings
+Phoenix Suns > Milwaukee Bucks 
+Oklahoma City Thunder > Golden State Warriors 
+San Antonio Spurs > Philadelphia 76ers 
+Orlando Magic > Miami Heat
+Cleveland Cavaliers > Los Angeles Clippers
+New York Knicks > Washington Wizards 
+Milwaukee Bucks > Toronto Raptors 
+Detroit Pistons > Brooklyn Nets 
+Atlanta Hawks > Indiana Pacers
+Chicago Bulls > New Orleans Pelicans 
+Memphis Grizzlies > Minnesota Timberwolves
+Dallas Mavericks > Denver Nuggets 
+Houston Rockets > Portland Trail Blazers 
+Los Angeles Lakers > Boston Celtics 
+Houston Rockets > Phoenix Suns 
+Golden State Warriors > Denver Nuggets 
+Sacramento Kings > Oklahoma City Thunder
+Miami Heat > Washington Wizards 
+Toronto Raptors > Boston Celtics
+Los Angeles Clippers > Philadelphia 76ers 
+Atlanta Hawks > Orlando Magic 
+Chicago Bulls > Charlotte Bobcats 
+Detroit Pistons > Brooklyn Nets
+Milwaukee Bucks > Cleveland Cavaliers 
+New York Knicks > Los Angeles Lakers
+Portland Trail Blazers > New Orleans Pelicans 
+Dallas Mavericks > Minnesota Timberwolves 
+Memphis Grizzlies > Indiana Pacers
+Oklahoma City Thunder > Utah Jazz 
+Denver Nuggets > Indiana Pacers 
+Los Angeles Clippers > Charlotte Bobcats 
+Philadelphia 76ers > Cleveland Cavaliers 
+New York Knicks > Minnesota Timberwolves 
+San Antonio Spurs > Brooklyn Nets 
+Dallas Mavericks > Portland Trail Blazers
+Orlando Magic > Milwaukee Bucks 
+Phoenix Suns > Sacramento Kings 
+Los Angeles Lakers > Toronto Raptors 
+Washington Wizards > Detroit Pistons 
+Miami Heat > Atlanta Hawks 
+Golden State Warriors > Houston Rockets
+Utah Jazz > Memphis Grizzlies 
+Orlando Magic > Minnesota Timberwolves
+Philadelphia 76ers > Charlotte Bobcats 
+New Orleans Pelicans > Utah Jazz
+Miami Heat > Milwaukee Bucks 
+Dallas Mavericks > Los Angeles Clippers
+Golden State Warriors > Phoenix Suns
+New York Knicks > Toronto Raptors 
+Miami Heat > Indiana Pacers 
+San Antonio Spurs > Detroit Pistons 
+Oklahoma City Thunder > Utah Jazz
+Memphis Grizzlies > Houston Rockets
+Chicago Bulls > Sacramento Kings
+Denver Nuggets > Phoenix Suns
+Washington Wizards > Portland Trail Blazers 
+Los Angeles Lakers > Atlanta Hawks
+San Antonio Spurs > Toronto Raptors 
+Orlando Magic > Philadelphia 76ers
+New York Knicks > Sacramento Kings
+Cleveland Cavaliers > Indiana Pacers
+Memphis Grizzlies > Brooklyn Nets 
+Detroit Pistons > Boston Celtics 
+Minnesota Timberwolves > Charlotte Bobcats
+New Orleans Pelicans > Milwaukee Bucks 
+Houston Rockets > Oklahoma City Thunder
+Dallas Mavericks > Denver Nuggets
+Atlanta Hawks > Phoenix Suns 
+Portland Trail Blazers > Golden State Warriors 
+Los Angeles Clippers > Washington Wizards
+Indiana Pacers > Brooklyn Nets
+Chicago Bulls > Boston Celtics
+Los Angeles Clippers > Portland Trail Blazers 
+Charlotte Bobcats > Toronto Raptors 
+Orlando Magic > Milwaukee Bucks
+Detroit Pistons > Sacramento Kings
+Miami Heat > Cleveland Cavaliers 
+Dallas Mavericks > Philadelphia 76ers 
+Oklahoma City Thunder > Golden State Warriors
+New Orleans Pelicans > New York Knicks 
+Memphis Grizzlies > Denver Nuggets
+Minnesota Timberwolves > Houston Rockets 
+Utah Jazz > Washington Wizards
+Los Angeles Lakers > Phoenix Suns
+San Antonio Spurs > Los Angeles Clippers 
+Brooklyn Nets > Chicago Bulls 
+Memphis Grizzlies > Golden State Warriors
+Portland Trail Blazers > Atlanta Hawks
+New York Knicks > Dallas Mavericks
+Miami Heat > Orlando Magic
+Indiana Pacers > Charlotte Bobcats
+Detroit Pistons > Boston Celtics
+Cleveland Cavaliers > Sacramento Kings
+Minnesota Timberwolves > Philadelphia 76ers
+Houston Rockets > Utah Jazz
+Milwaukee Bucks > Brooklyn Nets 
+Phoenix Suns > Los Angeles Lakers
+Oklahoma City Thunder > Denver Nuggets
+Chicago Bulls > Atlanta Hawks
+Brooklyn Nets > New York Knicks 
+Oklahoma City Thunder > New Orleans Pelicans
+Orlando Magic > Milwaukee Bucks 
+Houston Rockets > Memphis Grizzlies
+Dallas Mavericks > Boston Celtics
+San Antonio Spurs > Utah Jazz 
+Phoenix Suns > Washington Wizards
+Denver Nuggets > Minnesota Timberwolves
+Los Angeles Lakers > Portland Trail Blazers
+Golden State Warriors > Los Angeles Clippers
+Indiana Pacers > New Orleans Pelicans
+Cleveland Cavaliers > Detroit Pistons
+Miami Heat > Sacramento Kings
+Memphis Grizzlies > Philadelphia 76ers
+Portland Trail Blazers > San Antonio Spurs
+Sacramento Kings > Washington Wizards 
+Toronto Raptors > Detroit Pistons
+Oklahoma City Thunder > Boston Celtics
+New Orleans Pelicans > Cleveland Cavaliers 
+Indiana Pacers > Charlotte Bobcats 
+New York Knicks > Atlanta Hawks
+Orlando Magic > Brooklyn Nets 
+Minnesota Timberwolves > Utah Jazz
+Houston Rockets > Philadelphia 76ers
+Chicago Bulls > Milwaukee Bucks
+Golden State Warriors > Phoenix Suns 
+Los Angeles Lakers > Dallas Mavericks 
+Los Angeles Clippers > Denver Nuggets
+Miami Heat > New York Knicks
+Atlanta Hawks > Orlando Magic
+San Antonio Spurs > Denver Nuggets 
+Oklahoma City Thunder > Los Angeles Lakers
+Indiana Pacers > Golden State Warriors
+Boston Celtics > Cleveland Cavaliers 
+Philadelphia 76ers > Detroit Pistons 
+Milwaukee Bucks > Washington Wizards
+Houston Rockets > Toronto Raptors
+Chicago Bulls > New Orleans Pelicans
+Brooklyn Nets > Dallas Mavericks 
+Sacramento Kings > Utah Jazz
+Minnesota Timberwolves > Los Angeles Clippers 
+Orlando Magic > Washington Wizards 
+Oklahoma City Thunder > Philadelphia 76ers 
+New York Knicks > Cleveland Cavaliers
+Detroit Pistons > Charlotte Bobcats
+Boston Celtics > Milwaukee Bucks
+Golden State Warriors > Atlanta Hawks 
+Toronto Raptors > New Orleans Pelicans 
+Memphis Grizzlies > Dallas Mavericks
+Utah Jazz > Houston Rockets
+Chicago Bulls > San Antonio Spurs 
+Denver Nuggets > Portland Trail Blazers
+Los Angeles Lakers > Minnesota Timberwolves
+Oklahoma City Thunder > Orlando Magic 
+Phoenix Suns > Minnesota Timberwolves
+Los Angeles Clippers > Sacramento Kings 
+Miami Heat > Portland Trail Blazers 
+Memphis Grizzlies > Toronto Raptors 
+Chicago Bulls > Cleveland Cavaliers 
+Boston Celtics > Brooklyn Nets
+Atlanta Hawks > Milwaukee Bucks
+Philadelphia 76ers > Golden State Warriors
+New Orleans Pelicans > Dallas Mavericks
+Denver Nuggets > Houston Rockets 
+San Antonio Spurs > Charlotte Bobcats
+Utah Jazz > Miami Heat
+Phoenix Suns > Los Angeles Clippers
+Los Angeles Lakers > Sacramento Kings
+Washington Wizards > Cleveland Cavaliers
+Orlando Magic > Milwaukee Bucks
+Atlanta Hawks > Oklahoma City Thunder
+Indiana Pacers > New Orleans Pelicans 
+Memphis Grizzlies > Detroit Pistons
+Dallas Mavericks > Utah Jazz
+Minnesota Timberwolves > Portland Trail Blazers 
+Boston Celtics > New York Knicks
+Los Angeles Lakers > Miami Heat
+Toronto Raptors > Golden State Warriors
+Brooklyn Nets > Charlotte Bobcats 
+Chicago Bulls > Philadelphia 76ers 
+Los Angeles Clippers > Houston Rockets 
+Phoenix Suns > Sacramento Kings
+Denver Nuggets > San Antonio Spurs 
+Golden State Warriors > Washington Wizards 
+Orlando Magic > Toronto Raptors 
+Utah Jazz > Cleveland Cavaliers 
+Oklahoma City Thunder > Dallas Mavericks
+Minnesota Timberwolves > Los Angeles Clippers
+Milwaukee Bucks > Philadelphia 76ers
+Chicago Bulls > Indiana Pacers
+Denver Nuggets > Sacramento Kings
+Portland Trail Blazers > New Orleans Pelicans
+Atlanta Hawks > Indiana Pacers 
+Charlotte Bobcats > Orlando Magic
+Miami Heat > Brooklyn Nets
+Detroit Pistons > Los Angeles Lakers
+Boston Celtics > Houston Rockets
+Dallas Mavericks > New York Knicks
+Washington Wizards > Los Angeles Lakers
+Toronto Raptors > Houston Rockets
+Philadelphia 76ers > Boston Celtics
+Utah Jazz > Charlotte Bobcats 
+Miami Heat > Atlanta Hawks
+Brooklyn Nets > Los Angeles Clippers
+Oklahoma City Thunder > Phoenix Suns
+Minnesota Timberwolves > Portland Trail Blazers
+Chicago Bulls > Milwaukee Bucks 
+San Antonio Spurs > New York Knicks
+Cleveland Cavaliers > Denver Nuggets 
+Sacramento Kings > New Orleans Pelicans
+Memphis Grizzlies > Golden State Warriors 
+Orlando Magic > Chicago Bulls 
+Phoenix Suns > Dallas Mavericks
+Philadelphia 76ers > Utah Jazz
+Brooklyn Nets > Charlotte Bobcats 
+Detroit Pistons > Atlanta Hawks
+Boston Celtics > Portland Trail Blazers
+Cleveland Cavaliers > Oklahoma City Thunder 
+Los Angeles Lakers > Minnesota Timberwolves 
+Los Angeles Clippers > San Antonio Spurs 
+Milwaukee Bucks > New York Knicks
+Denver Nuggets > New Orleans Pelicans
+Sacramento Kings > Dallas Mavericks
+Portland Trail Blazers > Washington Wizards 
+Miami Heat > Indiana Pacers
+Detroit Pistons > Toronto Raptors
+Oklahoma City Thunder > Charlotte Bobcats
+New Orleans Pelicans > Minnesota Timberwolves 
+Chicago Bulls > Utah Jazz
+Houston Rockets > Brooklyn Nets 
+Phoenix Suns > Memphis Grizzlies
+Golden State Warriors > Dallas Mavericks
+Philadelphia 76ers > New York Knicks 
+Los Angeles Lakers > Boston Celtics
+Milwaukee Bucks > Toronto Raptors 
+Orlando Magic > Indiana Pacers
+Cleveland Cavaliers > Houston Rockets
+Memphis Grizzlies > Denver Nuggets 
+Atlanta Hawks > Sacramento Kings 
+Golden State Warriors > Los Angeles Clippers 
+Milwaukee Bucks > Brooklyn Nets 
+Charlotte Bobcats > New Orleans Pelicans 
+Chicago Bulls > New York Knicks
+San Antonio Spurs > Washington Wizards
+Utah Jazz > Detroit Pistons
+Minnesota Timberwolves > Phoenix Suns 
+Boston Celtics > Los Angeles Clippers 
+Orlando Magic > Miami Heat
+Indiana Pacers > Portland Trail Blazers
+Toronto Raptors > Cleveland Cavaliers 
+Houston Rockets > Oklahoma City Thunder 
+Los Angeles Lakers > Memphis Grizzlies 
+Dallas Mavericks > Washington Wizards
+Denver Nuggets > Atlanta Hawks
+Golden State Warriors > Sacramento Kings 
+Indiana Pacers > Philadelphia 76ers
+New York Knicks > Portland Trail Blazers
+Brooklyn Nets > Toronto Raptors
+Los Angeles Lakers > New Orleans Pelicans 
+Milwaukee Bucks > Cleveland Cavaliers
+Houston Rockets > Charlotte Bobcats
+San Antonio Spurs > Orlando Magic
+Chicago Bulls > Miami Heat
+Detroit Pistons > Sacramento Kings 
+Phoenix Suns > Utah Jazz
+Los Angeles Clippers > Atlanta Hawks
+Boston Celtics > Golden State Warriors 
+Washington Wizards > New Orleans Pelicans 
+Dallas Mavericks > Charlotte Bobcats
+Utah Jazz > Minnesota Timberwolves
+Oklahoma City Thunder > Denver Nuggets 
+Phoenix Suns > Los Angeles Clippers 
+Miami Heat > Philadelphia 76ers 
+Orlando Magic > Brooklyn Nets
+New York Knicks > Indiana Pacers
+Atlanta Hawks > Washington Wizards
+Toronto Raptors > Memphis Grizzlies 
+Portland Trail Blazers > Chicago Bulls 
+San Antonio Spurs > Oklahoma City Thunder 
+Sacramento Kings > Boston Celtics
+Phoenix Suns > Detroit Pistons
+Los Angeles Lakers > Minnesota Timberwolves
+Milwaukee Bucks > Golden State Warriors 
+Los Angeles Clippers > Houston Rockets
+New York Knicks > Indiana Pacers 
+Charlotte Bobcats > Toronto Raptors
+Chicago Bulls > Philadelphia 76ers
+New Orleans Pelicans > Brooklyn Nets 
+Utah Jazz > Golden State Warriors
+Denver Nuggets > Boston Celtics
+Dallas Mavericks > San Antonio Spurs
+Atlanta Hawks > Cleveland Cavaliers 
+Los Angeles Clippers > Detroit Pistons
+Sacramento Kings > Minnesota Timberwolves
+Memphis Grizzlies > Washington Wizards
+Miami Heat > Orlando Magic
+Phoenix Suns > Houston Rockets
+Oklahoma City Thunder > Portland Trail Blazers
+Utah Jazz > Los Angeles Lakers 
+Philadelphia 76ers > Charlotte Bobcats 
+Cleveland Cavaliers > Brooklyn Nets 
+Boston Celtics > Atlanta Hawks 
+Chicago Bulls > Orlando Magic 
+Minnesota Timberwolves > Golden State Warriors 
+Dallas Mavericks > Denver Nuggets 
+Indiana Pacers > Los Angeles Clippers
+New York Knicks > Toronto Raptors
+Miami Heat > Phoenix Suns
+Houston Rockets > Los Angeles Lakers
+Utah Jazz > Oklahoma City Thunder
+Sacramento Kings > Memphis Grizzlies
+Milwaukee Bucks > Portland Trail Blazers 
+Chicago Bulls > Toronto Raptors 
+New York Knicks > Philadelphia 76ers 
+Orlando Magic > Phoenix Suns
+Washington Wizards > Brooklyn Nets 
+Atlanta Hawks > Cleveland Cavaliers
+Oklahoma City Thunder > Los Angeles Clippers
+Golden State Warriors > New Orleans Pelicans 
+San Antonio Spurs > Minnesota Timberwolves
+Denver Nuggets > Detroit Pistons
+Los Angeles Lakers > Dallas Mavericks 
+Indiana Pacers > Washington Wizards 
+New Orleans Pelicans > Los Angeles Clippers
+Boston Celtics > Milwaukee Bucks 
+Houston Rockets > Golden State Warriors
+Utah Jazz > Sacramento Kings 
+Portland Trail Blazers > Memphis Grizzlies
+Toronto Raptors > New York Knicks
+Orlando Magic > Cleveland Cavaliers
+Phoenix Suns > Indiana Pacers 
+Milwaukee Bucks > Charlotte Bobcats 
+Miami Heat > Detroit Pistons 
+Atlanta Hawks > Brooklyn Nets
+Philadelphia 76ers > Boston Celtics
+Oklahoma City Thunder > Minnesota Timberwolves
+San Antonio Spurs > Dallas Mavericks
+Utah Jazz > Denver Nuggets
+Los Angeles Lakers > Portland Trail Blazers
+Los Angeles Clippers > Memphis Grizzlies
+Atlanta Hawks > Washington Wizards 
+New York Knicks > Detroit Pistons
+Brooklyn Nets > Charlotte Bobcats
+San Antonio Spurs > New Orleans Pelicans 
+Dallas Mavericks > Houston Rockets 
+Chicago Bulls > Toronto Raptors
+Indiana Pacers > Milwaukee Bucks 
+Golden State Warriors > Sacramento Kings
+Phoenix Suns > Cleveland Cavaliers 
+Minnesota Timberwolves > Denver Nuggets
+Boston Celtics > Washington Wizards
+Atlanta Hawks > Utah Jazz
+San Antonio Spurs > Philadelphia 76ers
+Oklahoma City Thunder > Miami Heat
+Portland Trail Blazers > Golden State Warriors
+Memphis Grizzlies > Los Angeles Lakers 
+Detroit Pistons > Washington Wizards 
+Orlando Magic > Toronto Raptors 
+Indiana Pacers > Miami Heat
+Boston Celtics > Charlotte Bobcats 
+New York Knicks > Milwaukee Bucks
+Utah Jazz > Brooklyn Nets 
+Houston Rockets > Sacramento Kings
+Denver Nuggets > Chicago Bulls 
+Los Angeles Clippers > New Orleans Pelicans
+Philadelphia 76ers > Cleveland Cavaliers
+Milwaukee Bucks > Atlanta Hawks
+Memphis Grizzlies > Minnesota Timberwolves
+Dallas Mavericks > Houston Rockets
+Oklahoma City Thunder > Portland Trail Blazers 
+San Antonio Spurs > Phoenix Suns 
+Los Angeles Lakers > Golden State Warriors 
+Toronto Raptors > Denver Nuggets
+New York Knicks > Orlando Magic
+Detroit Pistons > Cleveland Cavaliers 
+Minnesota Timberwolves > Charlotte Bobcats 
+Brooklyn Nets > Indiana Pacers
+Boston Celtics > Utah Jazz
+Chicago Bulls > Atlanta Hawks 
+San Antonio Spurs > Sacramento Kings 
+Los Angeles Clippers > Phoenix Suns
+New Orleans Pelicans > Golden State Warriors 
+Indiana Pacers > Washington Wizards
+Miami Heat > Dallas Mavericks
+Portland Trail Blazers > New Orleans Pelicans
+Oklahoma City Thunder > Los Angeles Lakers 
+Washington Wizards > Philadelphia 76ers
+Miami Heat > Toronto Raptors 
+Denver Nuggets > Charlotte Bobcats 
+Milwaukee Bucks > Cleveland Cavaliers 
+Atlanta Hawks > New York Knicks
+Dallas Mavericks > Orlando Magic 
+Boston Celtics > Minnesota Timberwolves 
+Houston Rockets > Memphis Grizzlies
+Chicago Bulls > Detroit Pistons
+Sacramento Kings > Utah Jazz 
+Los Angeles Clippers > Portland Trail Blazers
+Brooklyn Nets > Golden State Warriors 
+Los Angeles Lakers > New Orleans Pelicans
+Philadelphia 76ers > Atlanta Hawks
+New York Knicks > Cleveland Cavaliers
+Detroit Pistons > Charlotte Bobcats
+San Antonio Spurs > Indiana Pacers
+Memphis Grizzlies > Milwaukee Bucks 
+Brooklyn Nets > Sacramento Kings 
+Los Angeles Clippers > Utah Jazz
+Oklahoma City Thunder > Chicago Bulls
+Boston Celtics > Miami Heat
+Toronto Raptors > Washington Wizards
+Denver Nuggets > Orlando Magic 
+Indiana Pacers > Houston Rockets 
+Portland Trail Blazers > Minnesota Timberwolves
+Phoenix Suns > New Orleans Pelicans
+Los Angeles Lakers > Golden State Warriors
+Milwaukee Bucks > Washington Wizards 
+Memphis Grizzlies > Oklahoma City Thunder 
+Houston Rockets > Chicago Bulls 
+Los Angeles Clippers > Dallas Mavericks 
+Sacramento Kings > Minnesota Timberwolves
+Utah Jazz > Portland Trail Blazers 
+Toronto Raptors > Charlotte Bobcats
+Indiana Pacers > New York Knicks
+San Antonio Spurs > Cleveland Cavaliers 
+Miami Heat > Philadelphia 76ers
+Detroit Pistons > Orlando Magic
+Memphis Grizzlies > Golden State Warriors
+Phoenix Suns > Sacramento Kings 
+Los Angeles Lakers > Brooklyn Nets
+Indiana Pacers > Washington Wizards 
+Toronto Raptors > Philadelphia 76ers 
+San Antonio Spurs > Boston Celtics 
+Atlanta Hawks > Charlotte Bobcats
+New Orleans Pelicans > Denver Nuggets
+Golden State Warriors > Minnesota Timberwolves 
+Milwaukee Bucks > Cleveland Cavaliers
+Miami Heat > Oklahoma City Thunder
+Dallas Mavericks > Memphis Grizzlies
+Phoenix Suns > Utah Jazz 
+Portland Trail Blazers > Brooklyn Nets
+Los Angeles Lakers > Los Angeles Clippers 
+New York Knicks > Orlando Magic 
+Detroit Pistons > Washington Wizards
+Chicago Bulls > Boston Celtics
+Los Angeles Clippers > Sacramento Kings 
+Indiana Pacers > Oklahoma City Thunder
+Cleveland Cavaliers > Toronto Raptors 
+Memphis Grizzlies > Miami Heat 
+Brooklyn Nets > Washington Wizards
+Atlanta Hawks > Detroit Pistons
+San Antonio Spurs > New Orleans Pelicans
+Milwaukee Bucks > Charlotte Bobcats
+Portland Trail Blazers > Dallas Mavericks 
+Utah Jazz > Golden State Warriors
+Denver Nuggets > Phoenix Suns
+Houston Rockets > Los Angeles Lakers 
+Boston Celtics > Indiana Pacers 
+Orlando Magic > Philadelphia 76ers 
+New Orleans Pelicans > Minnesota Timberwolves
+Memphis Grizzlies > Dallas Mavericks
+Atlanta Hawks > Charlotte Bobcats 
+Milwaukee Bucks > Portland Trail Blazers
+Phoenix Suns > Los Angeles Lakers
+Los Angeles Clippers > Sacramento Kings
+Golden State Warriors > Denver Nuggets
+New York Knicks > Chicago Bulls
+Miami Heat > Detroit Pistons
+Brooklyn Nets > Cleveland Cavaliers
+Boston Celtics > Philadelphia 76ers
+San Antonio Spurs > Utah Jazz
+Oklahoma City Thunder > Toronto Raptors
+Houston Rockets > Sacramento Kings 
+Orlando Magic > Detroit Pistons
+Indiana Pacers > Toronto Raptors
+Washington Wizards > Charlotte Bobcats 
+Los Angeles Lakers > New Orleans Pelicans 
+Oklahoma City Thunder > Milwaukee Bucks 
+Memphis Grizzlies > Los Angeles Clippers
+Utah Jazz > San Antonio Spurs
+Phoenix Suns > Minnesota Timberwolves 
+Denver Nuggets > Golden State Warriors
+Houston Rockets > Portland Trail Blazers 
+Washington Wizards > Orlando Magic
+Boston Celtics > Miami Heat 
+Cleveland Cavaliers > Charlotte Bobcats
+Philadelphia 76ers > Brooklyn Nets 
+Dallas Mavericks > Sacramento Kings
+Chicago Bulls > New York Knicks
+Philadelphia 76ers > Toronto Raptors 
+Indiana Pacers > Cleveland Cavaliers 
+Los Angeles Clippers > Oklahoma City Thunder 
+New Orleans Pelicans > Sacramento Kings
+New York Knicks > Milwaukee Bucks 
+Memphis Grizzlies > Phoenix Suns
+Utah Jazz > Houston Rockets 
+Boston Celtics > Atlanta Hawks
+Los Angeles Lakers > San Antonio Spurs 
+Denver Nuggets > Minnesota Timberwolves
+Portland Trail Blazers > Golden State Warriors
+Detroit Pistons > Charlotte Bobcats 
+Los Angeles Clippers > Minnesota Timberwolves 
+Chicago Bulls > Miami Heat
+San Antonio Spurs > Memphis Grizzlies
+Dallas Mavericks > Golden State Warriors 
+Brooklyn Nets > Philadelphia 76ers 
+Toronto Raptors > Boston Celtics
+Atlanta Hawks > Orlando Magic 
+Indiana Pacers > Cleveland Cavaliers
+New York Knicks > Washington Wizards
+Miami Heat > Charlotte Bobcats
+Oklahoma City Thunder > Sacramento Kings
+New Orleans Pelicans > Utah Jazz
+Phoenix Suns > Houston Rockets 
+Milwaukee Bucks > Detroit Pistons 
+Dallas Mavericks > Portland Trail Blazers 
+Los Angeles Lakers > Denver Nuggets
+Los Angeles Clippers > Golden State Warriors
+Cleveland Cavaliers > Washington Wizards 
+Boston Celtics > Brooklyn Nets 
+Oklahoma City Thunder > Minnesota Timberwolves 
+Memphis Grizzlies > Utah Jazz
+Indiana Pacers > Milwaukee Bucks 
+San Antonio Spurs > Phoenix Suns
+Miami Heat > New York Knicks 
+Los Angeles Lakers > Dallas Mavericks
+Sacramento Kings > Portland Trail Blazers
+Chicago Bulls > Detroit Pistons 
+Orlando Magic > Cleveland Cavaliers 
+Boston Celtics > Charlotte Bobcats 
+Toronto Raptors > Atlanta Hawks 
+New Orleans Pelicans > Memphis Grizzlies
+Denver Nuggets > Houston Rockets
+Atlanta Hawks > Toronto Raptors 
+Orlando Magic > Philadelphia 76ers
+Indiana Pacers > Minnesota Timberwolves
+New Orleans Pelicans > Charlotte Bobcats 
+Miami Heat > Brooklyn Nets 
+Denver Nuggets > Houston Rockets 
+Washington Wizards > Chicago Bulls 
+Utah Jazz > Dallas Mavericks
+Phoenix Suns > Portland Trail Blazers
+Los Angeles Clippers > Oklahoma City Thunder
+San Antonio Spurs > Golden State Warriors 
+Indiana Pacers > Philadelphia 76ers 
+Detroit Pistons > Cleveland Cavaliers
+New York Knicks > Boston Celtics
+Memphis Grizzlies > Minnesota Timberwolves 
+San Antonio Spurs > Los Angeles Lakers 
+Washington Wizards > Milwaukee Bucks
+Philadelphia 76ers > Cleveland Cavaliers 
+Chicago Bulls > Charlotte Bobcats 
+Miami Heat > Toronto Raptors
+New York Knicks > Brooklyn Nets 
+Atlanta Hawks > Detroit Pistons
+Boston Celtics > Orlando Magic
+Memphis Grizzlies > New Orleans Pelicans
+Dallas Mavericks > Houston Rockets
+Los Angeles Clippers > Denver Nuggets 
+San Antonio Spurs > Sacramento Kings 
+Utah Jazz > Portland Trail Blazers 
+Oklahoma City Thunder > Phoenix Suns 
+Los Angeles Lakers > Golden State Warriors 
+Indiana Pacers > Milwaukee Bucks
+Minnesota Timberwolves > Detroit Pistons 
+New Orleans Pelicans > Houston Rockets
+Miami Heat > Chicago Bulls
+Phoenix Suns > Los Angeles Clippers
+Memphis Grizzlies > Charlotte Bobcats 
+Atlanta Hawks > Boston Celtics
+Cleveland Cavaliers > New York Knicks
+Dallas Mavericks > Golden State Warriors
+San Antonio Spurs > Los Angeles Lakers
+Oklahoma City Thunder > Sacramento Kings 
+Denver Nuggets > Phoenix Suns 
+Philadelphia 76ers > Indiana Pacers 
+Washington Wizards > Miami Heat 
+Memphis Grizzlies > Portland Trail Blazers
+Houston Rockets > Golden State Warriors
+Chicago Bulls > Dallas Mavericks
+Milwaukee Bucks > Brooklyn Nets
+Utah Jazz > Orlando Magic
+New York Knicks > Atlanta Hawks 
+Los Angeles Lakers > Oklahoma City Thunder
+Miami Heat > Houston Rockets
+Detroit Pistons > Toronto Raptors
+Sacramento Kings > Charlotte Bobcats 
+San Antonio Spurs > Cleveland Cavaliers
+Golden State Warriors > Minnesota Timberwolves 
+Denver Nuggets > Orlando Magic
+Los Angeles Clippers > New Orleans Pelicans
+Washington Wizards > Charlotte Bobcats
+Indiana Pacers > Detroit Pistons
+Philadelphia 76ers > Brooklyn Nets 
+Milwaukee Bucks > Toronto Raptors
+Memphis Grizzlies > Cleveland Cavaliers
+San Antonio Spurs > Portland Trail Blazers
+Atlanta Hawks > Los Angeles Clippers
+Oklahoma City Thunder > Sacramento Kings
+Boston Celtics > Miami Heat
+Utah Jazz > Phoenix Suns
+New Orleans Pelicans > Golden State Warriors 
+Orlando Magic > Charlotte Bobcats
+Chicago Bulls > Indiana Pacers 
+Washington Wizards > Cleveland Cavaliers 
+Denver Nuggets > Oklahoma City Thunder 
+New York Knicks > Los Angeles Clippers
+Philadelphia 76ers > Milwaukee Bucks 
+San Antonio Spurs > Phoenix Suns 
+Toronto Raptors > Brooklyn Nets
+Washington Wizards > Miami Heat
+Utah Jazz > Portland Trail Blazers
+Denver Nuggets > Minnesota Timberwolves 
+Memphis Grizzlies > Orlando Magic
+Houston Rockets > New Orleans Pelicans
+Detroit Pistons > Philadelphia 76ers
+Chicago Bulls > Cleveland Cavaliers
+New York Knicks > Charlotte Bobcats 
+Boston Celtics > Milwaukee Bucks
+Atlanta Hawks > Dallas Mavericks
+Sacramento Kings > Los Angeles Lakers
+San Antonio Spurs > Golden State Warriors 
+Chicago Bulls > Philadelphia 76ers
+Miami Heat > New York Knicks
+Orlando Magic > Indiana Pacers 
+Oklahoma City Thunder > Dallas Mavericks
+San Antonio Spurs > Utah Jazz
+Los Angeles Lakers > Denver Nuggets
+Atlanta Hawks > Boston Celtics
+Los Angeles Clippers > Memphis Grizzlies 
+Miami Heat > New York Knicks
+Indiana Pacers > Orlando Magic
+Oklahoma City Thunder > Dallas Mavericks
+Boston Celtics > Atlanta Hawks 
+Philadelphia 76ers > Chicago Bulls 
+Los Angeles Lakers > Denver Nuggets
+San Antonio Spurs > Utah Jazz
+Indiana Pacers > Orlando Magic 
+Memphis Grizzlies > Los Angeles Clippers
+Miami Heat > New York Knicks 
+Oklahoma City Thunder > Dallas Mavericks 
+Boston Celtics > Atlanta Hawks
+Philadelphia 76ers > Chicago Bulls
+Denver Nuggets > Los Angeles Lakers
+Indiana Pacers > Orlando Magic 
+Los Angeles Clippers > Memphis Grizzlies
+Oklahoma City Thunder > Dallas Mavericks 
+San Antonio Spurs > Utah Jazz 
+Philadelphia 76ers > Chicago Bulls
+New York Knicks > Miami Heat
+Boston Celtics > Atlanta Hawks
+Los Angeles Lakers > Denver Nuggets 
+San Antonio Spurs > Utah Jazz 
+Los Angeles Clippers > Memphis Grizzlies
+Indiana Pacers > Orlando Magic
+Atlanta Hawks > Boston Celtics
+Chicago Bulls > Philadelphia 76ers
+Denver Nuggets > Los Angeles Lakers 
+Miami Heat > New York Knicks
+Memphis Grizzlies > Los Angeles Clippers
+Philadelphia 76ers > Chicago Bulls
+Boston Celtics > Atlanta Hawks
+Denver Nuggets > Los Angeles Lakers
+Memphis Grizzlies > Los Angeles Clippers 
+Boston Celtics > Philadelphia 76ers
+Los Angeles Lakers > Denver Nuggets
+Los Angeles Clippers > Memphis Grizzlies 
+Miami Heat > Indiana Pacers
+Philadelphia 76ers > Boston Celtics 
+Oklahoma City Thunder > Los Angeles Lakers
+Indiana Pacers > Miami Heat 
+San Antonio Spurs > Los Angeles Clippers
+Boston Celtics > Philadelphia 76ers 
+Oklahoma City Thunder > Los Angeles Lakers
+Indiana Pacers > Miami Heat
+San Antonio Spurs > Los Angeles Clippers
+Philadelphia 76ers > Boston Celtics
+Los Angeles Lakers > Oklahoma City Thunder
+San Antonio Spurs > Los Angeles Clippers 
+Oklahoma City Thunder > Los Angeles Lakers 
+Miami Heat > Indiana Pacers 
+San Antonio Spurs > Los Angeles Clippers 
+Boston Celtics > Philadelphia 76ers
+Oklahoma City Thunder > Los Angeles Lakers
+Miami Heat > Indiana Pacers
+Philadelphia 76ers > Boston Celtics
+Miami Heat > Indiana Pacers 
+Boston Celtics > Philadelphia 76ers
+San Antonio Spurs > Oklahoma City Thunder
+Miami Heat > Boston Celtics
+San Antonio Spurs > Oklahoma City Thunder
+Miami Heat > Boston Celtics
+Oklahoma City Thunder > San Antonio Spurs
+Boston Celtics > Miami Heat
+Oklahoma City Thunder > San Antonio Spurs
+Boston Celtics > Miami Heat
+Oklahoma City Thunder > San Antonio Spurs 
+Boston Celtics > Miami Heat 
+Oklahoma City Thunder > San Antonio Spurs
+Miami Heat > Boston Celtics 
+Miami Heat > Boston Celtics
+Oklahoma City Thunder > Miami Heat
+Miami Heat > Oklahoma City Thunder 
+Miami Heat > Oklahoma City Thunder
+Miami Heat > Oklahoma City Thunder
+Miami Heat > Oklahoma City Thunder

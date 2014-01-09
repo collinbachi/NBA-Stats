@@ -1,0 +1,30 @@
+Oklahoma City Thunder: 1694.29
+San Antonio Spurs: 1636.8
+Miami Heat: 1625.75
+Los Angeles Clippers: 1570.76
+Indiana Pacers: 1522.62
+Houston Rockets: 1515.93
+Denver Nuggets: 1510.65
+Memphis Grizzlies: 1484.74
+Chicago Bulls: 1475.88
+Golden State Warriors: 1439.16
+New York Knicks: 1437.65
+Dallas Mavericks: 1431.52
+Atlanta Hawks: 1418.22
+Portland Trail Blazers: 1403.35
+Minnesota Timberwolves: 1397.96
+Boston Celtics: 1395.0
+Los Angeles Lakers: 1388.24
+Utah Jazz: 1381.6
+Toronto Raptors: 1359.13
+Brooklyn Nets: 1337.96
+Phoenix Suns: 1337.86
+New Orleans Pelicans: 1328.29
+Philadelphia 76ers: 1315.6
+Milwaukee Bucks: 1287.08
+Sacramento Kings: 1286.73
+Washington Wizards: 1270.53
+Detroit Pistons: 1260.17
+Orlando Magic: 1243.94
+Cleveland Cavaliers: 1153.36
+Charlotte Bobcats: 1089.22

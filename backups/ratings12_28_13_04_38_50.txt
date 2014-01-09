@@ -1,0 +1,30 @@
+Los Angeles Lakers: 1400.0
+Chicago Bulls: 1400.0
+Toronto Raptors: 1400.0
+San Antonio Spurs: 1400.0
+New Orleans Pelicans: 1400.0
+Philadelphia 76ers: 1400.0
+Detroit Pistons: 1400.0
+Boston Celtics: 1400.0
+Miami Heat: 1400.0
+Orlando Magic: 1400.0
+Portland Trail Blazers: 1400.0
+Golden State Warriors: 1400.0
+New York Knicks: 1400.0
+Washington Wizards: 1400.0
+Dallas Mavericks: 1400.0
+Minnesota Timberwolves: 1400.0
+Los Angeles Clippers: 1400.0
+Oklahoma City Thunder: 1400.0
+Milwaukee Bucks: 1400.0
+Memphis Grizzlies: 1400.0
+Charlotte Bobcats: 1400.0
+Utah Jazz: 1400.0
+Phoenix Suns: 1400.0
+Sacramento Kings: 1400.0
+Houston Rockets: 1400.0
+Cleveland Cavaliers: 1400.0
+Atlanta Hawks: 1400.0
+Brooklyn Nets: 1400.0
+Indiana Pacers: 1400.0
+Denver Nuggets: 1400.0
