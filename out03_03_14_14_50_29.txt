@@ -1,0 +1,150 @@
+Chicago Bulls > Philadelphia 76ers |H ^1.44 2.85 & 77 69
+Denver Nuggets > Los Angeles Lakers  |A ^3.26 1.36 & 102 99
+Miami Heat > New York Knicks |H ^1.07 9.33 & 106 94
+Memphis Grizzlies > Los Angeles Clippers |H ^1.31 3.58 & 92 80
+Philadelphia 76ers > Chicago Bulls |H ^1.58 2.46 & 79 78
+Boston Celtics > Atlanta Hawks |H ^1.29 3.77 & 83 80
+Denver Nuggets > Los Angeles Lakers |H ^1.67 2.24 & 113 96
+Memphis Grizzlies > Los Angeles Clippers  |A ^1.74 2.13 & 90 88
+Boston Celtics > Philadelphia 76ers |H ^1.39 3.07 & 92 91
+Los Angeles Lakers > Denver Nuggets |H ^1.35 3.32 & 96 87
+Los Angeles Clippers > Memphis Grizzlies  |A ^4.14 1.24 & 82 72
+Miami Heat > Indiana Pacers |H ^1.20 4.67 & 95 86
+Philadelphia 76ers > Boston Celtics  |A ^2.74 1.47 & 82 81
+Oklahoma City Thunder > Los Angeles Lakers |H ^1.23 4.30 & 119 90
+Indiana Pacers > Miami Heat  |A ^3.67 1.30 & 78 75
+San Antonio Spurs > Los Angeles Clippers |H ^1.10 7.75 & 108 92
+Boston Celtics > Philadelphia 76ers  |A ^2.14 1.73 & 107 91
+Oklahoma City Thunder > Los Angeles Lakers |H ^1.22 4.52 & 77 75
+Indiana Pacers > Miami Heat |H ^2.14 1.74 & 94 75
+San Antonio Spurs > Los Angeles Clippers |H ^1.11 6.89 & 105 88
+Philadelphia 76ers > Boston Celtics |H ^1.74 2.13 & 92 83
+Los Angeles Lakers > Oklahoma City Thunder |H ^1.66 2.29 & 99 96
+San Antonio Spurs > Los Angeles Clippers  |A ^1.47 2.76 & 96 86
+Oklahoma City Thunder > Los Angeles Lakers  |A ^1.75 2.11 & 103 100
+Miami Heat > Indiana Pacers  |A ^1.77 2.06 & 101 93
+San Antonio Spurs > Los Angeles Clippers  |A ^1.29 3.63 & 102 99
+Boston Celtics > Philadelphia 76ers |H ^1.41 3.01 & 101 85
+Oklahoma City Thunder > Los Angeles Lakers |H ^1.26 3.93 & 106 90
+Miami Heat > Indiana Pacers |H ^1.27 3.89 & 115 83
+Philadelphia 76ers > Boston Celtics |H ^1.86 1.96 & 82 75
+Miami Heat > Indiana Pacers  |A ^1.70 2.19 & 105 93
+Boston Celtics > Philadelphia 76ers |H ^1.32 3.50 & 85 75
+San Antonio Spurs > Oklahoma City Thunder |H ^1.39 3.07 & 101 98
+Miami Heat > Boston Celtics |H ^1.21 4.59 & 93 79
+San Antonio Spurs > Oklahoma City Thunder |H ^1.47 2.77 & 120 111
+Miami Heat > Boston Celtics |H ^1.22 4.45 & 115 111
+Oklahoma City Thunder > San Antonio Spurs |H ^1.47 2.74 & 102 82
+Boston Celtics > Miami Heat |H ^1.69 2.20 & 101 91
+Oklahoma City Thunder > San Antonio Spurs |H ^1.53 2.58 & 109 103
+Boston Celtics > Miami Heat |H ^2.09 1.76 & 93 91
+Oklahoma City Thunder > San Antonio Spurs  |A ^2.86 1.44 & 108 103
+Boston Celtics > Miami Heat  |A ^4.25 1.24 & 94 90
+Oklahoma City Thunder > San Antonio Spurs |H ^1.43 2.87 & 107 99
+Miami Heat > Boston Celtics  |A ^1.75 2.12 & 98 79
+Miami Heat > Boston Celtics |H ^1.21 4.51 & 101 88
+Oklahoma City Thunder > Miami Heat |H ^1.42 2.93 & 105 94
+Miami Heat > Oklahoma City Thunder  |A ^2.80 1.45 & 100 96
+Miami Heat > Oklahoma City Thunder |H ^1.53 2.57 & 91 85
+Miami Heat > Oklahoma City Thunder |H ^1.66 2.28 & 104 98
+Miami Heat > Oklahoma City Thunder |H ^1.59 2.43 & 121 106
+Boston Celtics > New York Knicks  |A ^5.26 1.17985611511 & 92 86
+Indiana Pacers > Atlanta Hawks |H ^1.30959752322 3.66 & 106 83
+Houston Rockets > Oklahoma City Thunder  |A ^4.97 1.19011406844 & 107 100
+Brooklyn Nets > Chicago Bulls  |A ^1.94339622642 1.9009009009 & 95 92
+Golden State Warriors > Denver Nuggets |H ^1.71942446043 2.19 & 92 88
+New York Knicks > Boston Celtics  |A ^1.71942446043 2.18 & 88 80
+Indiana Pacers > Atlanta Hawks  |A ^1.96153846154 1.87719298246 & 81 73
+Memphis Grizzlies > Los Angeles Clippers |H ^1.35971223022 3.29 & 118 105
+Oklahoma City Thunder > Houston Rockets  |A ^1.94339622642 1.9009009009 & 103 94
+Chicago Bulls > Brooklyn Nets  |A ^3.66 1.30959752322 & 99 93
+Oklahoma City Thunder > Memphis Grizzlies |H ^1.60975609756 2.41 & 93 91
+Indiana Pacers > New York Knicks  |A ^2.88 1.44052863436 & 102 95
+Chicago Bulls > Miami Heat  |A ^9.07 1.08 & 93 86
+San Antonio Spurs > Golden State Warriors |H ^1.17985611511 5.28 & 129 127
+New York Knicks > Indiana Pacers |H ^1.390625 3.11 & 105 79
+Memphis Grizzlies > Oklahoma City Thunder  |A ^2.24 1.68965517241 & 99 93
+Miami Heat > Chicago Bulls |H ^1.0900090009 8.73 & 115 78
+Golden State Warriors > San Antonio Spurs  |A ^3.73 1.28985507246 & 100 91
+Miami Heat > Chicago Bulls  |A ^1.25974025974 4.09 & 104 94
+San Antonio Spurs > Golden State Warriors  |A ^2.16 1.74074074074 & 102 92
+Memphis Grizzlies > Oklahoma City Thunder |H ^1.46948356808 2.79 & 87 81
+Indiana Pacers > New York Knicks |H ^1.51020408163 2.65 & 82 71
+Golden State Warriors > San Antonio Spurs |H ^2.06 1.8 & 97 87
+Miami Heat > Chicago Bulls  |A ^1.25974025974 4.13 & 88 65
+Memphis Grizzlies > Oklahoma City Thunder |H ^1.52083333333 2.64 & 103 97
+Indiana Pacers > New York Knicks |H ^1.46948356808 2.79 & 93 82
+San Antonio Spurs > Golden State Warriors |H ^1.30959752322 3.61 & 109 91
+Miami Heat > Chicago Bulls |H ^1.05 11.73 & 94 91
+Memphis Grizzlies > Oklahoma City Thunder  |A ^2.71 1.49019607843 & 88 84
+New York Knicks > Indiana Pacers |H ^1.49019607843 2.72 & 85 75
+San Antonio Spurs > Golden State Warriors  |A ^1.7299270073 2.17 & 94 82
+Indiana Pacers > New York Knicks |H ^1.45045045045 2.87 & 106 99
+San Antonio Spurs > Memphis Grizzlies |H ^1.5 2.7 & 105 83
+San Antonio Spurs > Memphis Grizzlies |H ^1.44052863436 2.91 & 93 89
+Miami Heat > Indiana Pacers |H ^1.21978021978 4.57 & 103 102
+Indiana Pacers > Miami Heat  |A ^3.97 1.27027027027 & 97 93
+San Antonio Spurs > Memphis Grizzlies  |A ^2.75 1.48076923077 & 104 93
+Miami Heat > Indiana Pacers  |A ^1.8 2.06 & 114 96
+San Antonio Spurs > Memphis Grizzlies  |A ^2.22 1.70921985816 & 93 86
+Indiana Pacers > Miami Heat |H ^2.25 1.68027210884 & 99 92
+Miami Heat > Indiana Pacers |H ^1.25974025974 4.13 & 90 79
+Indiana Pacers > Miami Heat |H ^2.25 1.68027210884 & 91 77
+Miami Heat > Indiana Pacers |H ^1.28011204482 3.87 & 99 76
+San Antonio Spurs > Miami Heat  |A ^2.96 1.42016806723 & 92 88
+Miami Heat > San Antonio Spurs |H ^1.3300330033 3.47 & 103 84
+San Antonio Spurs > Miami Heat |H ^1.76923076923 2.1 & 113 77
+Miami Heat > San Antonio Spurs  |A ^1.86206896552 1.96153846154 & 109 93
+San Antonio Spurs > Miami Heat |H ^1.96153846154 1.86956521739 & 114 104
+Miami Heat > San Antonio Spurs |H ^1.3300330033 3.49 & 103 100
+Miami Heat > San Antonio Spurs |H ^1.42918454936 2.95 & 95 88
+Portland Trail Blazers > Minnesota Timberwolves |H ^1.59 2.44 & 108 97
+Milwaukee Bucks > Philadelphia 76ers  |A ^1.67 2.26 & 130 110
+Dallas Mavericks > New York Knicks  |A ^1.68 2.25 & 110 108
+Golden State Warriors > Detroit Pistons  |A ^1.59 2.43 & 104 96
+Los Angeles Clippers > New Orleans Pelicans  |A ^1.51 2.63 & 123 110
+Utah Jazz > Boston Celtics |H ^1.54 2.58 & 110 98
+Washington Wizards > Orlando Magic |H ^1.20 4.71 & 115 106
+Indiana Pacers > Los Angeles Lakers |H ^1.07 9.35 & 118 98
+Toronto Raptors > Cleveland Cavaliers  |A ^1.57 2.45 & 99 93
+Chicago Bulls > Atlanta Hawks  |A ^1.74 2.13 & 107 103
+Minnesota Timberwolves > Phoenix Suns  |A ^2.53 1.55 & 110 101
+Portland Trail Blazers > Denver Nuggets  |A ^1.67 2.26 & 100 95
+Houston Rockets > Sacramento Kings  |A ^1.53 2.60 & 129 103
+Orlando Magic > Philadelphia 76ers  |A ^1.56 2.51 & 101 90
+Boston Celtics > Atlanta Hawks |H ^1.68 2.26 & 115 104
+Cleveland Cavaliers > Oklahoma City Thunder  |A ^13.16 1.04 & 114 104
+Memphis Grizzlies > Los Angeles Lakers |H ^1.12 6.76 & 108 103
+Dallas Mavericks > New Orleans Pelicans |H ^1.33 3.43 & 108 89
+Chicago Bulls > Golden State Warriors |H ^2.38 1.60 & 103 83
+San Antonio Spurs > Detroit Pistons |H ^1.15 5.71 & 120 110
+Utah Jazz > Phoenix Suns |H ^1.73 2.15 & 109 86
+Portland Trail Blazers > Brooklyn Nets |H ^1.81 2.04 & 124 80
+Los Angeles Clippers > Houston Rockets |H ^1.48 2.73 & 101 93
+Washington Wizards > Toronto Raptors  |A ^2.61 1.51 & 134 129
+Indiana Pacers > Milwaukee Bucks |H ^1.03 14.35 & 101 96
+Miami Heat > New York Knicks |H ^1.22 4.40 & 108 82
+Brooklyn Nets > Denver Nuggets  |A ^1.73 2.13 & 112 89
+Cleveland Cavaliers > Utah Jazz |H ^1.55 2.52 & 99 79
+Oklahoma City Thunder > Memphis Grizzlies |H ^1.36 3.24 & 113 107
+Golden State Warriors > New York Knicks  |A ^1.40 2.93 & 126 103
+San Antonio Spurs > Charlotte Bobcats |H ^1.21 4.55 & 92 82
+Chicago Bulls > Dallas Mavericks  |A ^2.55 1.54 & 100 91
+Phoenix Suns > New Orleans Pelicans |H ^1.32 3.45 & 116 104
+Los Angeles Lakers > Sacramento Kings |H ^1.73 2.15 & 126 122
+Washington Wizards > Philadelphia 76ers  |A ^1.12 6.67 & 122 103
+Miami Heat > Orlando Magic |H ^1.05 11.23 & 112 98
+Houston Rockets > Detroit Pistons |H ^1.16 5.79 & 118 110
+Indiana Pacers > Boston Celtics  |A ^1.28 3.83 & 102 97
+Brooklyn Nets > Milwaukee Bucks  |A ^1.36 3.25 & 107 98
+Memphis Grizzlies > Cleveland Cavaliers |H ^1.20 4.63 & 110 96
+Minnesota Timberwolves > Sacramento Kings  |A ^1.52 2.62 & 108 97
+Portland Trail Blazers > Denver Nuggets |H ^1.12 6.84 & 102 96
+Los Angeles Clippers > New Orleans Pelicans |H ^1.11 7.30 & 108 76
+Chicago Bulls > New York Knicks |H ^1.34 3.41 & 109 90
+Toronto Raptors > Golden State Warriors |H ^2.18 1.71 & 104 98
+Orlando Magic > Philadelphia 76ers |H ^1.15 5.94 & 92 81
+Indiana Pacers > Utah Jazz |H ^1.12 6.89 & 94 91
+San Antonio Spurs > Dallas Mavericks |H ^1.36 3.29 & 112 106
+Oklahoma City Thunder > Charlotte Bobcats |H ^1.15 5.95 & 116 99
+Phoenix Suns > Atlanta Hawks |H ^1.27 3.90 & 129 120

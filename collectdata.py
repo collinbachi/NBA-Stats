@@ -14,7 +14,7 @@ def generate_data(page, f, URL):
 	browser = webdriver.Chrome('C:/DCB/chromedriver_win32/chromedriver.exe')
 	browser.get(URL.format(page))
 	odds = browser.find_elements_by_class_name('odds-nowrp')
-	#print odds
+
 	odds = [element.text for element in odds]
 	oddsindex = 0
 	browser.quit()
@@ -55,7 +55,7 @@ def fix_odds(s):
 			return str((float(s[:s.find('/')]) / float(s[s.find('/') + 1:]) + 1.0))
 		elif '.' in s: return s
 		else: 
-			print s, ' AC AC ACA A'
+			print s
 			return 1.0
 	except: return 1.0
 
@@ -73,8 +73,31 @@ def fix_str(s):
 		s = s.replace('-', '')
 	return s.encode('UTF-8')
 
+def readCommand():
+  """
+  Processes the command used to output to a different file.
+  """
+  import sys
+  from optparse import OptionParser
+  argv = sys.argv[1:]
+  usageStr = """
+  USAGE:      python collectdata.py -o output.txt
+  """
+  parser = OptionParser(usageStr)
+
+  default_fn = 'out' + time.strftime('%m_%d_%y_%H_%M_%S', time.localtime()) + '.txt'
+
+  parser.add_option('-f', '--file', dest='fn',
+                    help='the output file (default is timestamped)',
+                    metavar='FILE', default=default_fn)
+
+  options, otherjunk = parser.parse_args(argv)
+
+  return options.fn
+  
+
 if __name__ == '__main__':
-	fn = 'out' + time.strftime('%m_%d_%y_%H_%M_%S', time.localtime()) + '.txt'
+	fn = readCommand()
 	f = open('temp', 'w+')
 	for url, p in zip(URL, num_pages):
 		for i in range(1, p):
